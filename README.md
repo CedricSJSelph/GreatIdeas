@@ -10,4 +10,4 @@
 
 ### Look at the Great_Ideas.png for the wireframe of the application.
 
-The JSP web is already nuilt out for you.
+The JSP web is already built out for you.
